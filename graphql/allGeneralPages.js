@@ -24,7 +24,5 @@ export default gql`
             slug
          }
       }
-   }
-   
-  
+   }  
 `
